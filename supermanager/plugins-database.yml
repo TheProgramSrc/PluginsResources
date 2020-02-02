@@ -1,0 +1,5 @@
+# If you want to add your plugin for the update checker system you can use this format:
+# PluginName:
+#   ID: "SpigotMC.org Resource ID"
+SuperTroller:
+  ID: '72552'
