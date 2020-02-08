@@ -5,3 +5,7 @@ SuperTroller:
   ResourceID: '72552'
   ResourceName: 'SuperTroller'
   Server: 'Spigot'
+Vault:
+  ResourceID: '33184'
+  ResourceName: 'vault'
+  Server: 'Bukkit'
