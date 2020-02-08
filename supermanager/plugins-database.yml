@@ -2,4 +2,5 @@
 # PluginName:
 #   ID: "SpigotMC.org Resource ID"
 SuperTroller:
-  ID: '72552'
+  ResourceID: '72552'
+  Server: 'Spigot'
