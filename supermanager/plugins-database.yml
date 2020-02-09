@@ -1,7 +1,28 @@
 # If you want to add your plugin for the update checker system you can use this format:
 # PluginDisplayName:
-#   ResourceID: "SpigotMC.org Resource ID or Bukkit.org Project ID"
-#   ResourceName: "Name of the resource (for bukkit is the name in the url, for spigot the plugin.yml name)"
+#   ResourceID: "SpigotMC.org Resource ID"
+#   ResourceName: "Name of the resource (in plugin.yml)"
+# If you are connected to internet the file will be replaced with the original
+# To edit and contribute go to this link: https://github.com/TheProgramSrc/PluginsResources
+# WARNING: This database only works with FREE plugins from SpigotMC.org
 SuperTroller:
   ResourceID: '72552'
   ResourceName: 'SuperTroller'
+Vault:
+  ResourceID: '34315'
+  ResourceName: 'Vault'
+ProtectionStones:
+  ResourceID: '61797'
+  ResourceName: 'ProtectionStones'
+LuckPerms:
+  ResourceID: '28140'
+  ResourceName: 'LuckPerms'
+ViaVersion:
+  ResourceID: '19254'
+  ResourceName: 'ViaVersion'
+UltraCosmetics:
+  ResourceID: '10905'
+  ResourceName: 'UltraCosmetics'
+ServerListPlus:
+  ResourceID: '241'
+  ResourceName: 'ServerListPlus'
