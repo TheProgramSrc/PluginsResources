@@ -2,12 +2,6 @@
 # PluginDisplayName:
 #   ResourceID: "SpigotMC.org Resource ID or Bukkit.org Project ID"
 #   ResourceName: "Name of the resource (for bukkit is the name in the url, for spigot the plugin.yml name)"
-#   Server: "Bukkit or Spigot"
 SuperTroller:
   ResourceID: '72552'
   ResourceName: 'SuperTroller'
-  Server: 'Spigot'
-Vault:
-  ResourceID: '33184'
-  ResourceName: 'vault'
-  Server: 'Bukkit'
