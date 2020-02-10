@@ -26,3 +26,6 @@ UltraCosmetics:
 ServerListPlus:
   ResourceID: '241'
   ResourceName: 'ServerListPlus'
+SkinsRestorer:
+  ResourceID: '2124'
+  ResourceName: 'SkinsRestorer'
