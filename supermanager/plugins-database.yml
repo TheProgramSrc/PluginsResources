@@ -29,3 +29,4 @@ ServerListPlus:
 SkinsRestorer:
   ResourceID: '2124'
   ResourceName: 'SkinsRestorer'
+  AlternativeLatestLink: 'https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/{Version}/SkinsRestorer.jar'
