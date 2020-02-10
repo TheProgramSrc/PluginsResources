@@ -42,3 +42,15 @@ SkinsRestorer:
 PlaceholderAPI:
   ResourceID: '6245'
   ResourceName: 'PlaceholderAPI'
+SkyWarsReloaded:
+  ResourceID: '3796'
+  ResourceName: 'Skywars'
+CoreProtect:
+  ResourceID: '8631'
+  ResourceName: 'CoreProtect'
+GUIShop:
+  ResourceID: '2451'
+  ResourceName: 'GUIShop'
+iDisguise:
+  ResourceID: '5509'
+  ResourceName: 'iDisguise'
