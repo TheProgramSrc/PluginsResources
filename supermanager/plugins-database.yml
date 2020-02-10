@@ -30,3 +30,6 @@ SkinsRestorer:
   ResourceID: '2124'
   ResourceName: 'SkinsRestorer'
   AlternativeLatestLink: 'https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/{Version}/SkinsRestorer.jar'
+PlaceholderAPI:
+  ResourceID: '6245'
+  ResourceName: 'PlaceholderAPI'
