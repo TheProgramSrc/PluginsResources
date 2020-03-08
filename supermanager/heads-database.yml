@@ -1,0 +1,14 @@
+# Format: 
+# ENTITY_NAME: "TEXTURE_URL"
+#
+# Where can I find heads?
+# - https://mineskin.org
+# - https://minecraft-heads.com
+#
+# Why I don't do it on my own?
+# Because there is a lot of heads and entities and
+# if I add a wrong head then I have to edit the code so
+# here can I get help from the community.
+#
+SKELETON: "http://textures.minecraft.net/texture/22795c3c6f36d67decf9a3195e128040bec5226b055f2b16d46fa19a9180e023"
+VILLAGER: "http://textures.minecraft.net/texture/822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b"
