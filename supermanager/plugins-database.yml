@@ -14,9 +14,6 @@
 # If you are connected to internet the file will be replaced with the original
 # To edit and contribute go to this link: https://github.com/TheProgramSrc/PluginsResources
 # WARNING: This database only works with FREE plugins from SpigotMC.org
-SuperTroller:
-  ResourceID: '72552'
-  ResourceName: 'SuperTroller'
 Vault:
   ResourceID: '34315'
   ResourceName: 'Vault'
