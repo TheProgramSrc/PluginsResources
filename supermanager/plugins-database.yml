@@ -51,3 +51,6 @@ GUIShop:
 iDisguise:
   ResourceID: '5509'
   ResourceName: 'iDisguise'
+EpicCraftings:
+  ResourceID: '37117'
+  ResourceName: 'EpicCraftings'
