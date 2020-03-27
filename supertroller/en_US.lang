@@ -1,9 +1,8 @@
 CONFIRM: Confirm
 DECLINE: Decline
-CLICK: Click
-LEFT: Left
-MIDDLE: Middle
-RIGHT: Right
+LEFT_CLICK: Left Click
+MIDDLE_CLICK: Middle Click
+RIGHT_CLICK: Right Click
 LANGUAGES: Languages
 SELECT: Select
 SETTINGS: Settings
@@ -12,7 +11,6 @@ DISABLED: Disabled
 PLAYER: Player
 PLAYERS: Players
 CONSOLE: Console
-CLICK_TO: Click to
 NO_PERMISSION: '&cYou dont have permission.'
 NO_ACCESS: '&cYou dont have access!'
 NOT_SUPPORTED: '&cThis command it''s only for &e{Supported}'
