@@ -1,0 +1,51 @@
+CONFIRM: Confirmar
+DECLINE: Rechazar
+CLICK: Click
+LEFT: Izquierdo
+MIDDLE: Central
+RIGHT: Derecho
+LANGUAGES: Lenguajes
+SELECT: Seleccionar
+SETTINGS: Configuraciones
+ENABLED: Activado
+DISABLED: Desactivado
+PLAYER: Jugador
+PLAYERS: Jugadores
+CONSOLE: Consola
+CLICK_TO: Click para
+NO_PERMISSION: '&cNo tienes permiso.'
+NO_ACCESS: '&cNo tienes acceso!'
+NOT_SUPPORTED: '&cEste comando es solo para &e{Supported}'
+INVALID_ARGUMENTS: '&cArgumentos Invalidos!'
+DIALOG_HOW_TO_CLOSE: '&7Para cerrar este dialogo escribe &c{CloseWord} &7en el chat.'
+DIALOG_CLOSED: '&7Has &ccerrado &7este dialogo.'
+TRANSLATION_DOWNLOAD_SUCCESS: '&aSe han descargado las traducciones de la nube.'
+TRANSLATION_DOWNLOAD_FAILED: '&cNo se ha podido descargar las traducciones de la nube.'
+DIALOG_SEARCH_TITLE: '&9Buscar'
+DIALOG_SEARCH_SUBTITLE: '&7Escribe algo'
+DIALOG_SEARCH_ACTIONBAR: '&aEscribe algo para encontrar el objeto'
+DIALOG_CHANGE_VALUE_TITLE: '&9Nuevo Valor'
+DIALOG_CHANGE_VALUE_SUBTITLE: '&7Escribe el nuevo valor'
+DIALOG_CHANGE_VALUE_ACTIONBAR: '&aValor Actual: &r{CurrentValue}'
+SETTINGS_EDITOR_NAME: '&aEditor de Configuraciones'
+SETTINGS_EDITOR_DESCRIPTION: '&7Edita algunas configuraciones'
+LANGUAGE_SELECTOR_DESCRIPTION: '&7Selecciona un nuevo lenguaje.'
+LANGUAGE_SELECT_DESCRIPTION: '&7Seleccionar &aeste &7lenguaje.'
+LANGUAGE_SELECTED_DESCRIPTION: '&aEste &7lenguaje esta seleccionado.'
+SETTINGS_TOGGLE_UPDATER_NAME: '&aActivar/Desactivar Actualizador'
+SETTINGS_TOGGLE_UPDATER_DESCRIPTION: '&7Estado Actual: &9$1'
+SET_CLOSE_WORD_NAME: '&aCambiar frase de cierre'
+SET_CLOSE_WORD_DESCRIPTION: '&7Frase Actual: &9$1'
+MATERIAL_SELECTOR_TITLE: '&7Selecciona un Material'
+MATERIAL_SELECTOR_ITEM_NAME: '&a{Material}'
+MATERIAL_SELECTOR_ITEM_DESCRIPTION: '&7Click para seleccionar &a{Material}'
+ITEM_BACK_NAME: '&aAtras'
+ITEM_BACK_DESCRIPTION: '&7Click para ir atras.'
+ITEM_NEXT_NAME: '&aSiguiente'
+ITEM_NEXT_DESCRIPTION: '&7Click para ir a la siguiente pagina.'
+ITEM_PREVIOUS_NAME: '&aAnterior'
+ITEM_PREVIOUS_DESCRIPTION: '&7Click para ir a la pagina anterior.'
+ITEM_SEARCH_NAME: '&aBuscar'
+ITEM_SEARCH_DESCRIPTION: '&7Click para buscar entre objetos.'
+ITEM_END_SEARCH_NAME: '&aTerminar Búsqueda'
+ITEM_END_SEARCH_DESCRIPTION: '&7Click para terminar la búsqueda'
