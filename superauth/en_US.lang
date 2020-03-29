@@ -53,13 +53,10 @@ REMOVED_ADMIN: '&c$1 &ais no longer an admin.'
 ALREADY_NON_ADMIN: '&c$1 &ais not an admin.'
 WRONG_PASSWORD: '&cWrong Password.'
 WRONG_CAPTCHA: '&cWrong Captcha.'
-MIGRATING_KICK: "&7Currently the server it's migrating the old \n data from SuperAuth\
-  \ to the newest files"
-APPLY_CHANGES_KICK_MESSAGE: "&9&lSuperAuth \n\n &7Please enter again to apply the\
-  \ changes"
+MIGRATING_KICK: "&7Currently the server it's migrating the old \n data from SuperAuth to the newest files"
+APPLY_CHANGES_KICK_MESSAGE: "&9&lSuperAuth \n\n &7Please enter again to apply the changes"
 CONFIRMATION_MESSAGE: '&7To continue use the command &7''&e$1&7''&7.'
-CONFIRMATION_WARNING: '&c&lWARNING: Maybe you''ll lose all your data and progress
-  on the server'
+CONFIRMATION_WARNING: '&c&lWARNING: Maybe you''ll lose all your data and progress on the server'
 OVERVIEW_USER_BROWSER_NAME: '&aUser Browser'
 OVERVIEW_USER_BROWSER_DESCRIPTION: '&7Browse and Manage Users'
 OVERVIEW_SETTINGS_NAME: '&cSettings'
