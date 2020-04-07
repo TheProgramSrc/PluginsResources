@@ -63,17 +63,14 @@ ALREADY_LOGGED_IN: '&c{Player} is already authorized!'
 SUCCESS_FORCE_LOGIN: '&aForced Login from &eConsole'
 WRONG_PASSWORD: '&cWrong Password.'
 WRONG_CAPTCHA: '&cWrong Captcha.'
-AUTO_REGISTERED: '&aYou got auto-registered because you are &e&lPREMIUM &ayour password:
-  &c{GeneratedPassword}'
-REMEMBER_PASSWORD_CHANGE: '&6&lRemember to change your password! use the command &7/{Command}&6&l
-  to open MyAccountGUI'
+AUTO_REGISTERED: '&aYou got auto-registered because you are &e&lPREMIUM &ayour password: &c{GeneratedPassword}'
+REMEMBER_PASSWORD_CHANGE: '&6&lRemember to change your password! use the command &7/{Command}&6&l to open MyAccountGUI'
 ALREADY_ONLINE_KICK: "&7You are already online! \n \n &7Online User: &c{Player}"
 LOGIN_PROTECTION_KICK: '&7You cannot access from another IP!'
 ANTIBOT_MAX_AUTH_TIME: '&7You must be logged in in &c{Seconds} seconds&7 or less!'
 APPLY_CHANGES_KICK_MESSAGE: '&7Please enter again to apply the changes'
 CONFIRMATION_MESSAGE: '&7To continue use the command &7''&e/{Command}&7''&7.'
-CONFIRMATION_WARNING: '&c&lWARNING: Maybe you''ll lose all your data and progress
-  on the server'
+CONFIRMATION_WARNING: '&c&lWARNING: Maybe you''ll lose all your data and progress on the server'
 BLACKLISTED_KICK: '&7This {Type} is in the blacklist!'
 TOO_MANY_ACCOUNTS: '&c&lThis IP has too many accounts!'
 INVALID_PREMIUM: '&cInvalid Session &7(Try restarting the game and the launcher)'
