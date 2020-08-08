@@ -1,0 +1,35 @@
+# Spigot
+```
+[CENTER][B][SIZE=7][COLOR=#0080ff][FONT=Verdana]SuperCoreAPI[/FONT][/COLOR]
+[/SIZE]
+[FONT=Verdana][SIZE=5][COLOR=#bfbfbf][SIZE=5]Create the best plugins with [B][FONT=Verdana][COLOR=rgb(0, 128, 255)]SuperCore[/COLOR][COLOR=#0080ff]API[/COLOR]![/FONT][/B][/SIZE][/COLOR]
+[COLOR=#bfbfbf][SIZE=5][B][FONT=Verdana]You will have more control over your plugins with all his extensions.[/FONT][/B]
+[/SIZE][/COLOR][/SIZE][/FONT][/B][/CENTER]
+[B][FONT=Verdana][SIZE=5][SIZE=5][B][FONT=Verdana][COLOR=#00b3b3]Available Extensions:[/COLOR][/FONT][/B][/SIZE][/SIZE][/FONT][/B]
+[LIST]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Simple Translations[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Dialogs with the Player[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Interactive GUIs[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Simple Commands[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Simple Config files[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]MySQL/SQLite Support[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Metrics Support[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Songoda/Spigot API Support (for update checkers)[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Placeholders Injector[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Hologram Creator[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Custom Item Creator[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Packets Support[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Custom Recipe Creator[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Cross-Version Materials[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Dependency Manager (Download Dependencies Programmatically)[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Log Filter[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Bungee Support[/B][/COLOR][/SIZE][/FONT]
+[*][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]Custom Tasks[/B][/COLOR][/SIZE][/FONT]
+[/LIST]
+[CENTER][SIZE=6][COLOR=#0080ff][I][URL='https://go.theprogramsrc.xyz/discord'][B] DISCORD SUPPORT[/B][/URL][/I]
+[URL='http://go.theprogramsrc.xyz/whatsapp'][B]WHATSAPP SUPPORT[/B][/URL]
+[EMAIL='contact@theprogramsrc.xyz'][I][B]EMAIL SUPPORT[/B][/I][/EMAIL][/COLOR][/SIZE][/CENTER]
+```
+
+# Songoda
+_NOT AVAILABLE YET_
