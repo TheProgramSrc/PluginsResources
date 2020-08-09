@@ -24,7 +24,7 @@
 [*][B][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]依赖关系管理器 (下载依赖关系管理器)[/B][/COLOR][/SIZE][/FONT][/B]
 [*][B][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]日志筛选器[/B][/COLOR][/SIZE][/FONT][/B]
 [*][B][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]支持bc跨服[/B][/COLOR][/SIZE][/FONT][/B]
-[*][B][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]自定义聊天栏[/B][/COLOR][/SIZE][/FONT][/B]
+[*][B][FONT=Verdana][SIZE=4][COLOR=#ff8000][B]自定义窗口[/B][/COLOR][/SIZE][/FONT][/B]
 [/LIST]
 [B][/B]
 [CENTER][B][SIZE=6][COLOR=#0080ff][I][URL='https://go.theprogramsrc.xyz/discord'][B] DISCORD SUPPORT[/B][/URL][/I]
