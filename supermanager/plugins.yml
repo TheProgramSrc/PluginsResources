@@ -5,10 +5,12 @@
 #   PluginName: (Used to identify the plugin)
 #     PluginID: 0 (SpigotID and must be integer)
 #     AlternativeDownload: "" (Direct link to latest version, you can also use the placeholder {LatestVersion} for latest version)
+#     FileRename: "" If some plugin (like PAPI) have different names for every version, and this path is set the downloaded file will be renamed
 # Songoda:
-#  PluginName: (Used for display name)
-#    PluginID: "" (The SongodaID is productname-product_short)
-#    AlternativeDownload: "" (Direct link to latest version, you can also use the placeholder {LatestVersion} for latest version)
+#   PluginName: (Used for display name)
+#     PluginID: "" (The SongodaID is productname-product_short)
+#     AlternativeDownload: "" (Direct link to latest version, you can also use the placeholder {LatestVersion} for latest version)
+#     FileRename: "" If some plugin (like PAPI) have different names for every version, and this path is set the downloaded file will be renamed
 # The plugin name should be the same that it's saved in the plugin.yml
 Spigot:
   SkinsRestorer:
@@ -17,3 +19,4 @@ Spigot:
   PlaceholderAPI:
     PluginID: 6245
     AlternativeDownload: "https://github.com/PlaceholderAPI/PlaceholderAPI/releases/download/{LatestVersion}/PlaceholderAPI-{LatestVersion}.jar"
+    FileRename: "PlaceholderAPI-{LatestVersion}.jar"
