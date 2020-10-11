@@ -1,12 +1,15 @@
 # FOR RECODE UPDATE
 # Format: (ONLY FREE PLUGINS)
 #
-#Plataform: (Songoda or Spigot)
+# Spigot:
+#   PluginName: (Used to identify the plugin)
+#     PluginID: 0 (SpigotID and must be integer)
+#     AlternativeDownload: "" (Direct link to latest version, you can also use the placeholder {LatestVersion} for latest version)
+# Songoda:
 #  PluginName: (Used for display name)
-#    PluginID: (SongodaID or SpigotID and must be integer)
-#    AlternativeDownload: (Direct link to latest version, you can also use the placeholder {Version} for latest version)
+#    PluginID: "" (The SongodaID is productname-product_short)
+#    AlternativeDownload: "" (Direct link to latest version, you can also use the placeholder {LatestVersion} for latest version)
 Spigot:
   SkinsRestorer:
     PluginID: 2124
-    AlternativeDownload: 'https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/{Version}/SkinsRestorer.jar'
-  
+    AlternativeDownload: "https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/{LatestVersion}/SkinsRestorer.jar"
