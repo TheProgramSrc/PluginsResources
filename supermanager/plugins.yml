@@ -14,3 +14,6 @@ Spigot:
   SkinsRestorer:
     PluginID: 2124
     AlternativeDownload: "https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/{LatestVersion}/SkinsRestorer.jar"
+  PlaceholderAPI:
+    PluginID: 6245
+    AlternativeDownload: "https://github.com/PlaceholderAPI/PlaceholderAPI/releases/download/{LatestVersion}/PlaceholderAPI-{LatestVersion}.jar"
