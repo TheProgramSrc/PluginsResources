@@ -9,6 +9,7 @@
 #  PluginName: (Used for display name)
 #    PluginID: "" (The SongodaID is productname-product_short)
 #    AlternativeDownload: "" (Direct link to latest version, you can also use the placeholder {LatestVersion} for latest version)
+# The plugin name should be the same that it's saved in the plugin.yml
 Spigot:
   SkinsRestorer:
     PluginID: 2124
