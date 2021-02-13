@@ -163,3 +163,5 @@ ERROR_WHILE_UPDATING_TABLES=Cannot update tables:
 ERROR_WHILE_DELETING_USER=Couldn't delete user:
 ERROR_WHILE_SAVING_USER_DATA=Error while saving $1's data:
 ERROR_WHILE_HASHING_PASSWORD=Error while hashing password:
+MANAGE_USER_TOGGLE_MODE_NAME=Toggle Premium Mode
+MANAGE_USER_TOGGLE_MODE_DESCRIPTION=Click to change to {Mode} mode
