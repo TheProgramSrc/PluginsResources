@@ -163,3 +163,5 @@ ERROR_WHILE_UPDATING_TABLES=Impossible de mettre à jour les tables:
 ERROR_WHILE_DELETING_USER=Impossible de supprimer l'utilisateur:
 ERROR_WHILE_SAVING_USER_DATA=Erreur lors de l'enregistrement des données de $1:
 ERROR_WHILE_HASHING_PASSWORD=Erreur lors du hachage du mot de passe:
+MANAGE_USER_TOGGLE_MODE_NAME=Basculer en mode Premium
+MANAGE_USER_TOGGLE_MODE_DESCRIPTION=Cliquez pour passer en mode {Mode}
