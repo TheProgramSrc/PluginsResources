@@ -1,0 +1,49 @@
+CONFIRM: Confirmer
+DECLINE: Décliner
+LEFT_CLICK: Click gauche
+MIDDLE_CLICK: Clic du milieu
+RIGHT_CLICK: Clic droit
+LANGUAGES: Langues
+SELECT: Sélectionner
+SETTINGS: Réglages
+ENABLED: Activé
+DISABLED: Désactivé
+PLAYER: Joueur
+PLAYERS: Joueurs
+CONSOLE: Console
+NO_PERMISSION: '&cVous n'avez pas la permission.'
+NO_ACCESS: '&cVous n'avez pas accès!'
+NOT_SUPPORTED: '&cCette commande n''est que pour &e{Supported}'
+INVALID_ARGUMENTS: '&cArguments non valides!'
+DIALOG_HOW_TO_CLOSE: '&7Pour fermer la boîte de dialogue, écrivez &c{CloseWord} &7dans le chat.'
+DIALOG_CLOSED: '&7Vous &cfermez &7ce dialogue.'
+TRANSLATION_DOWNLOAD_SUCCESS: '&aTraductions téléchargées avec succès depuis le cloud.'
+TRANSLATION_DOWNLOAD_FAILED: '&cImpossible de récupérer les traductions depuis le cloud.'
+DIALOG_SEARCH_TITLE: '&9Chercher'
+DIALOG_SEARCH_SUBTITLE: '&7Écrivez un terme de recherche'
+DIALOG_SEARCH_ACTIONBAR: '&aÉcrivez dans le chat un terme de recherche pour trouver un objet'
+DIALOG_CHANGE_VALUE_TITLE: '&9Nouvelle valeur'
+DIALOG_CHANGE_VALUE_SUBTITLE: '&7Écrivez la nouvelle valeur'
+DIALOG_CHANGE_VALUE_ACTIONBAR: '&aValeur actuelle: &r{CurrentValue}'
+SETTINGS_EDITOR_NAME: '&aÉditeur de paramètres'
+SETTINGS_EDITOR_DESCRIPTION: '&7Cliquez pour modifier certains paramètres'
+LANGUAGE_SELECTOR_DESCRIPTION: '&7Cliquez pour sélectionner une nouvelle langue.'
+LANGUAGE_SELECT_DESCRIPTION: '&7Cliquez pour sélectionner &acette &7language.'
+LANGUAGE_SELECTED_DESCRIPTION: '&aCette &7langue est sélectionnée.'
+SETTINGS_TOGGLE_UPDATER_NAME: '&abasculer de programme de mise à jour'
+SETTINGS_TOGGLE_UPDATER_DESCRIPTION: '&7Statut actuel: &9$1'
+SET_CLOSE_WORD_NAME: '&aDéfinir un mot proche'
+SET_CLOSE_WORD_DESCRIPTION: '&7Mot actuel: &9$1'
+MATERIAL_SELECTOR_TITLE: '&7Sélectionnez un matériau'
+MATERIAL_SELECTOR_ITEM_NAME: '&a{Material}'
+MATERIAL_SELECTOR_ITEM_DESCRIPTION: '&7Cliquez pour sélectionner&a{Material}'
+ITEM_BACK_NAME: '&aRetour'
+ITEM_BACK_DESCRIPTION: '&7Cliquez pour revenir en arrière.'
+ITEM_NEXT_NAME: '&aSuivant'
+ITEM_NEXT_DESCRIPTION: '&7Cliquez pour aller à la page suivante.'
+ITEM_PREVIOUS_NAME: '&aPrécédent'
+ITEM_PREVIOUS_DESCRIPTION: '&7Cliquez pour aller à la page précédente.'
+ITEM_SEARCH_NAME: '&aChercher'
+ITEM_SEARCH_DESCRIPTION: '&7Cliquez pour rechercher entre les objets.'
+ITEM_END_SEARCH_NAME: '&aTerminer la recherche'
+ITEM_END_SEARCH_DESCRIPTION: '&7Cliquez pour terminer la recherche'
