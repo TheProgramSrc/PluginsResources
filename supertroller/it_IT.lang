@@ -1,0 +1,49 @@
+CONFIRM: Confermare
+DECLINE: Declino
+LEFT_CLICK: Clic sinistro
+MIDDLE_CLICK: Clic centrale
+RIGHT_CLICK: Clic destro
+LANGUAGES: Lingue
+SELECT: Selezionare
+SETTINGS: Impostazioni
+ENABLED: Abilitato
+DISABLED: Disabilitato
+PLAYER: Giocatore
+PLAYERS: Giocatori
+CONSOLE: Console
+NO_PERMISSION: '&cNon hai il permesso.'
+NO_ACCESS: '&cNon hai accesso!'
+NOT_SUPPORTED: '&cQuesto comando è solo per &e{Supported}'
+INVALID_ARGUMENTS: '&cArgomenti non validi!'
+DIALOG_HOW_TO_CLOSE: '&7Per chiudere la finestra di dialogo scrivi &c{CloseWord} &7nella chat.'
+DIALOG_CLOSED: '&7Hai &cchiuso &7questa finestra di dialogo.'
+TRANSLATION_DOWNLOAD_SUCCESS: '&aTraduzioni scaricate con successo dal cloud'
+TRANSLATION_DOWNLOAD_FAILED: '&cImpossibile recuperare le traduzioni dal cloud.'
+DIALOG_SEARCH_TITLE: '&9Ricerca'
+DIALOG_SEARCH_SUBTITLE: '&7Scrivi un termine di ricerca'
+DIALOG_SEARCH_ACTIONBAR: '&aScrivi nella chat un termine di ricerca per trovare un oggetto'
+DIALOG_CHANGE_VALUE_TITLE: '&9Nuovo valore'
+DIALOG_CHANGE_VALUE_SUBTITLE: '&7Scrivi il nuovo valore'
+DIALOG_CHANGE_VALUE_ACTIONBAR: '&aValore corrente: &r{CurrentValue}'
+SETTINGS_EDITOR_NAME: '&aEditor delle impostazioni'
+SETTINGS_EDITOR_DESCRIPTION: '&7Fare clic per modificare alcune impostazionis'
+LANGUAGE_SELECTOR_DESCRIPTION: '&7Fare clic per selezionare una nuova lingua.'
+LANGUAGE_SELECT_DESCRIPTION: '&7Fare clic per selezionare &aquesta &7lingua.'
+LANGUAGE_SELECTED_DESCRIPTION: '&aQuesta &7lingua è selezionata.'
+SETTINGS_TOGGLE_UPDATER_NAME: '&aAttiva / disattiva aggiornamento'
+SETTINGS_TOGGLE_UPDATER_DESCRIPTION: '&7Stato attuale: &9$1'
+SET_CLOSE_WORD_NAME: '&aImposta Chiudi parola'
+SET_CLOSE_WORD_DESCRIPTION: '&7Parola corrente: &9$1'
+MATERIAL_SELECTOR_TITLE: '&7Seleziona un materiale'
+MATERIAL_SELECTOR_ITEM_NAME: '&a{Material}'
+MATERIAL_SELECTOR_ITEM_DESCRIPTION: '&7Fare clic per selezionare &a{Material}'
+ITEM_BACK_NAME: '&aIndietro'
+ITEM_BACK_DESCRIPTION: '&7Fare clic per tornare indietro.'
+ITEM_NEXT_NAME: '&aprossimo'
+ITEM_NEXT_DESCRIPTION: '&7Fare clic per passare alla pagina successiva.'
+ITEM_PREVIOUS_NAME: '&aPrecedente'
+ITEM_PREVIOUS_DESCRIPTION: '&7Fare clic per andare alla pagina precedente.'
+ITEM_SEARCH_NAME: '&aRicerca'
+ITEM_SEARCH_DESCRIPTION: '&7Fare clic per cercare tra gli oggetti.'
+ITEM_END_SEARCH_NAME: '&aFine ricerca'
+ITEM_END_SEARCH_DESCRIPTION: '&7Fare clic per terminare con la ricerca'
