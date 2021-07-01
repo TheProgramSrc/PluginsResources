@@ -1,0 +1,244 @@
+Display: English
+General:
+  Ok: Ok
+  Add: Add
+  Remove: Remove
+  Done: Done
+  Completed: Completed
+  Cancel: Cancel
+  LeftClick: Left Click
+  ShiftClick: Shift Click
+  MiddleClick: Middle Click
+  RightClick: Right Click
+  Languages: Languages
+  Select: Select
+  Settings: Settings
+  Enabled: Enabled
+  Disabled: Disabled
+  Player: Player
+  Players: Players
+  Console: Console
+  Confirm: Confirm
+  Decline: Decline
+  General: General
+  Premium: Premium
+  Cracked: Cracked
+  NoInput: No Input
+Commands:
+  NoPermission: '&cYou dont have permission.'
+  NoAccess: '&cYou dont have access!'
+  NotSupported: '&cThis command it''s only for &e{Supported}'
+  InvalidArguments: '&cInvalid Arguments!'
+Dialog:
+  HowToClose: '&7Use &aLeft Click &7to close the dialog.'
+  Closed: '&7You &cclosed &7this dialog.'
+  Search:
+    Title: '&9Search'
+    Subtitle: '&7Write a search term'
+    Actionbar: '&aWrite in the chat a search term to find a object'
+  ChangePrefix:
+    Title: '&9Prefix'
+    Subtitle: '&7Write a new prefix'
+    Actionbar: '&aCurrent prefix: &r{Prefix}'
+GUI:
+  Settings:
+    Title: '&cSettings'
+    PaneTitle: '&cSettings &8> &9{Setting}'
+    Items:
+      Editor:
+        Name: '&aSettings Editor'
+        Lore: '&7Click to edit some settings'
+      General:
+        Name: '&aGeneral Settings'
+        Lore: '&7Click to edit general settings'
+      Languages:
+        Name: '&aLanguages'
+        Lore: '&7Click to select a new Language.'
+  GeneralSettings:
+    Items:
+      Prefix:
+        Name: '&aSet Prefix'
+        Lore: '&7Current Prefix: &r{Prefix}'
+      TranslationDownloader:
+        Name: '&aToggle Translation Downloader'
+        Lore: '&7Current Status: &9{Status}'
+      ToggleUpdater:
+        Name: '&aToggle Updater'
+        Lore: '&7Current Status: &9{Status}'
+      ToggleSQL:
+        Name: '&aToggle SQL'
+        Lore: '&7Current Status: &9{Status}'
+  Languages:
+    Items:
+      Name: '&7Click to select&a {Language}&7 as the current language.'
+      Lore: '&a{Language}&7 is selected as the current language.'
+  MaterialSelector:
+    Title: '&7Select a Material'
+    Item:
+      Name: '&a{Material}'
+      Lore: '&7Click to select &a{Material}'
+  Register:
+    Title: '&cRegister'
+  Login:
+    Title: '&cLogin'
+  Captcha:
+    Title: '&bCaptcha &9> &7Choose &4&l{Captcha}'
+  WrongCaptcha:
+    Title: '&cWRONG CAPTCHA!'
+  Auth:
+    Disconnect:
+      Name: Disconnect
+      Lore: Because the plugin blocks the inventory closing if you want to disconnect
+        you may click this button.
+    Save:
+      Name: Save
+      Lore: Click to save your password
+    Check:
+      Name: Check
+      Lore: Click to check your password
+    Delete:
+      Name: Delete
+      LeftAction: Delete last digit
+      RightAction: Clear Input
+  Admin:
+    Users:
+      Name: Users
+      Lore: Manage your users
+    Close:
+      Name: Close GUI
+  Items:
+    Close:
+      Lore: Click to close the GUI
+  Admin-UserBrowser:
+    Title: '&9> &cUsers'
+    Manage:
+      Name: '&a{User}'
+      ActionLeft: Manage
+      ActionQ: Unregister/Delete User
+    RefreshCache:
+      Name: Refresh Cache
+      Lore: Click to refresh the cache
+  Admin-UserManager:
+    Title: '&cUsers &9> &5{User}'
+    ChangePassword:
+      Name: Change Password
+      Lore: Click to change the password
+    ToggleMode:
+      Name: Toggle Premium Mode
+      Lore: Click to change to {Mode} mode
+  Admin-UserPasswordChange:
+    Title: Password Change
+    Save:
+      Name: '&aSave'
+      Lore: '&7Click to save the new password'
+    Delete:
+      Name: Delete
+      LeftAction: Delete last digit
+      RightAction: Clear Input
+  MyAccount:
+    Title: '&cMy Account &9> &a{Player}'
+    ChangePassword:
+      Name: Change Password
+      Lore: Click to change your password
+    ToggleMode:
+      Name: Toggle Premium Mode
+      Lore: Click to change to {Mode} mode
+  ChangePassword:
+    Title: Password Change
+    Save:
+      Name: '&aSave'
+      Lore: '&7Click to save your new password'
+    Delete:
+      Name: Delete
+      LeftAction: Delete last digit
+      RightAction: Clear Input
+Items:
+  Back:
+    Name: '&aBack'
+    Lore: '&7Click to go Back.'
+  Next:
+    Name: '&aNext'
+    Lore: '&7Click to go to the next page.'
+  Previous:
+    Name: '&aPrevious'
+    Lore: '&7Click to go to the previous page.'
+  Search:
+    Name: '&aSearch'
+  EndSearch:
+    Name: '&aEnd Search'
+Messages:
+  ConfigurationReloaded: '&aThe configuration files were reloaded'
+  ChangeModeConfirmation: '&eIn order to confirm you need to run the command &7{Command}'
+  ChangeModeWarning: '&cWARNING: IF YOU CHANGE YOUR MODE YOU MAY LOSE ALL THE DATA
+    AND PROGRESS'
+  AlreadyAdmin: '&cThe user &7{User}&c is already an admin!'
+  AddedAdmin: '&aNow the user &7{User}&a is an admin.'
+  NotAdmin: '&cThe user &7{User}&c is not an admin!'
+  RemovedAdmin: '&aThe user &7{User} &ais no longer an admin.'
+  ForcedLogin: '&aForced login for user &c{User}'
+  RemoveRequestSent: The remove request was sent
+  Wiki: 'You can view all the information regarding the plugin in our wiki: https://wiki.theprogramsrc.xyz/'
+  UpdatedIPAddress: '&aSent request to update &7{UserName}''s&a account IP Address
+    to: &b{NewIPAddress}'
+  UpdatedMode: '&aSent request to update &7{UserName}''s&a account mode to: &b{NewMode}'
+  VpnKick: It seems like you're using a VPN. Please turn it off and enter again.
+  ChangeModeKick: '&7To apply your settings please enter again.'
+  TookTooLongKick: '&cPlease identify yourself in {Time} seconds or less!'
+  IpChangedKick: '&cWe detected that your IP Address has changed. If you''re the owner
+    of the account please contact an admin and share your new IP Address: &b{NewIPAddress}'
+Errors:
+  PasswordTooShort: '&cError. Please use a password with at least {Length} characters.'
+  PasswordTooLong: '&cError. Please use a password with no more than {Length} characters.'
+  Hashing: '&cThe hashing util is not working right now, try again later.'
+  Captcha: '&cWrong captcha! &aEnter this captcha: &b{Captcha}'
+  Password: '&cWrong password!'
+  StillInAuth: '&cYou can''t do this! You need to authenticate yourself!'
+  FetchingData: '&cError while fetching data. Please contact an administrator'
+  AlreadyIdentified: '&cYou''re already identified!'
+  AlreadyPremium: '&cYou''re already a premium user!'
+  AlreadyCracked: '&cYou''re already a cracked user!'
+  UserNotRegistered: The user must be registered!
+  UserNotExists: That user doesn't exists!
+  UserAlreadyIdentified: That user is already identified!
+  FetchingPlayer: Error while fetching player from User DataBase, maybe the user is
+    not online
+  AlreadyRegistered: '&cYou''re already registered! Use the command &e/{Command} <Password>'
+  NotRegistered: '&cYou''re not registered! Please register yourself using the command
+    &e/{Command} <Password>'
+  ForceLoginNotSupported: You can't use force login with the auth method DIALOG
+  DialogNoCommand: '&cDon''t use commands! Just write your password in the chat'
+  CannotCheckServerIp: 'Cannot check IP, server returned the following message:'
+  CannotCheckUserIp: 'Error while checking IP:'
+  NullContent: 'Error while reading content: Server returned Null'
+  FailedRequest: 'Couldn''t request data:'
+  CreateTable: 'Cannot create tables:'
+  UpdateTable: 'Cannot update tables:'
+  DeleteUser: 'Couldn''t delete user:'
+  SaveUser: 'Error while saving {UserName}''s data:'
+  HashPassword: 'Error while hashing password:'
+HowToUse:
+  Dialog: '&aTo authenticate yourself just write in the chat your password. Don''t
+    worry because it wont be showed publicly.'
+  GUI: '&aTo authenticate yourself an GUI will be opened, if you cannot see the GUI
+    use the command /{Command} and enter your pin.'
+  Command: '&aTo register use the command /{RegisterCommand} <Password>. To login
+    use the command /{LoginCommand} <Password>'
+  Register: '&cUse &e/{Command} <Password> &cto register.'
+  Login: '&cUse &e/{Command} <Password> &cto login.'
+Dialogs:
+  Register:
+    Title: '&bRegister'
+    Subtitle: '&7Write in the chat your password'
+    Actionbar: '&aDon''t use commands, just write your password'
+  Login:
+    Title: '&bLogin'
+    Subtitle: '&7Write in the chat your password'
+    Actionbar: '&aDon''t use commands, just write your password'
+  Captcha:
+    Title: '&bCaptcha'
+    Subtitle: '&7Write in the chat: &9&l{Captcha}'
+    Actionbar: '&aWrite ''&9&l{Captcha}&a'' in the chat'
+  ChangePassword:
+    Title: '&9Password'
+    Subtitle: '&7Change Password'
+    Actionbar: '&aCreate a new password'
