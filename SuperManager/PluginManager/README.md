@@ -11,6 +11,6 @@ Just use the following format:
 }
 ```
 
-\> ID: The ID number of the product in their Platform
-\> Name: The name of the plugin (Can be found in the plugin.yml file)
-\> Platform: For now it can be either "Spigot" or "Songoda", more marketplaces will be added soon.
+\> ID: The ID number of the product in their Platform<br>
+\> Name: The name of the plugin (Can be found in the plugin.yml file)<br>
+\> Platform: For now it can be either "Spigot" or "Songoda", more marketplaces will be added soon.<br>
