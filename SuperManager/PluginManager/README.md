@@ -7,10 +7,12 @@ Just use the following format:
 {
   "id": 1,
   "name": "SuperAuth",
-  "platform": "TheProgramSrc"
+  "platform": "TheProgramSrc",
+  "fileName": "{Name}-{Version}.jar"
 }
 ```
 
-\> ID: The ID number of the product in their Platform<br>
-\> Name: The name of the plugin (Can be found in the plugin.yml file)<br>
-\> Platform: For now it can be either "Spigot" or "Songoda", more marketplaces will be added soon.<br>
+\> `id`: The ID number of the product in their Platform<br>
+\> `name`: The name of the plugin (Can be found in the plugin.yml file)<br>
+\> `platform`: For now it can be either "Spigot" or "Songoda", more marketplaces will be added soon.<br>
+\> `fileName`: The name of the file to save in the update folder. Available placeholders: `{Name} - Product Name`, `{Version} - Product Version`
