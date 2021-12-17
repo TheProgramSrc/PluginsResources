@@ -1,3 +1,6 @@
-{
-  "theprogramsrc": "https://repo.theprogramsrc.xyz/repository/simplecoreapi-modules/"
-}
+[
+  {
+    "url": "https://repo.theprogramsrc.xyz/repository/simplecoreapi-modules/",
+    "repo": "simplecoreapi-modules"
+  }
+]
